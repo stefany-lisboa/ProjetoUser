@@ -7,7 +7,7 @@ module.exports = {
             name: 'db_usuario',
             dialect: 'mysql',
             user: 'dbmasteruser',
-            password: '-.CCUH04CY5Nt9H?cNb^$,`ertl(5j{R'
+            password: '=onfv7iF{;m-A?{}H6+w,)`e4&3B3sn`'
         }
     },
     production: {
